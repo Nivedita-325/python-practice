@@ -1,0 +1,7 @@
+from pyparsing.core import Char
+a=int(input("enter a number1"));
+print(a);
+b=float(input("enter a number2"));
+print(b);
+d=Char(input("entera character"));
+print(d);
